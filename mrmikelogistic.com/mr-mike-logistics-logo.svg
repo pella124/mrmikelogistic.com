@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">MR MIKE LOGISTICS</title>
+  <desc id="desc">A bold black and gold logistics wordmark with an integrated road and flight path symbol.</desc>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 302 C58 248 67 171 108 116 C151 58 232 38 301 65 C356 86 389 133 394 187" stroke="#E8B91E" stroke-width="19"/>
+    <path d="M87 302 C60 249 68 173 109 118 C151 62 226 42 292 62" stroke="#111820" stroke-width="19"/>
+    <path d="M95 292 C146 236 204 200 266 178 C319 159 371 151 426 153" stroke="#111820" stroke-width="15"/>
+    <path d="M111 313 C173 258 239 226 303 209 C345 198 388 193 430 194" stroke="#E8B91E" stroke-width="7" stroke-dasharray="18 20"/>
+  </g>
+  <path d="M393 123l47-35-15 43 48 22-58-2-26 35 4-41-36-19z" fill="#E8B91E" stroke="#111820" stroke-width="7" stroke-linejoin="round"/>
+  <text x="470" y="190" font-family="Arial, Helvetica, sans-serif" font-size="118" font-weight="900" letter-spacing="-5" fill="#111820">MR MIKE</text>
+  <rect x="475" y="218" width="630" height="94" rx="12" fill="#111820"/>
+  <text x="505" y="287" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800" letter-spacing="8" fill="#F2C322">LOGISTICS</text>
+  <path d="M476 345h628" stroke="#E8B91E" stroke-width="7" stroke-linecap="round"/>
+  <text x="479" y="389" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" letter-spacing="3" fill="#111820">SAFE RIDE  •  RELIABLE SERVICE  •  ON TIME</text>
+</svg>
